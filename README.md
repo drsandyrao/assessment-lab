@@ -36,7 +36,6 @@ GitHub will publish the site at `https://USERNAME.github.io/assessment-lab/`. Al
 - `lab/` — orientation, round selection, and role views
 - `library/` — library landing page and reusable resource-page template
 - `reveal/` — discreet whole-class reveal page
-- `instructor/` — discreet facilitation guide
 - `assets/styles.css` — shared responsive, accessible, and print styles
 - `scripts/check_links.py` — dependency-free internal-link validation
 
